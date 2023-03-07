@@ -1,6 +1,6 @@
-# Triangle
+# Triangle △
 
-First C# Console Application
+C# Console Application
 
 
 Input of application (via keyboard):
